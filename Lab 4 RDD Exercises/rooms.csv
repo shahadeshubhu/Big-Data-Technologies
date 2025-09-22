@@ -1,0 +1,14 @@
+Building,Room,Capacity,Room type
+BSS,A25,120,Tiered
+BSS,B52,500,Tiered
+CS,A07,52,Flat
+CS,A32,160,Computer
+Dearing,A34,80,Computer
+Dearing,B37,36,Flat
+Dearing,C35,50,Flat
+Xu Yafen,B18,67,Flat
+Exchange,LT1,110,Tiered
+Exchange,LT2,200,Tiered
+Exchange,LT3,290,Tiered
+Exchange,C33,160,Flat
+Exchange,C03,160,Flat
